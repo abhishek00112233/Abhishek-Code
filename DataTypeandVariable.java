@@ -3,7 +3,7 @@ public class DataTypeandVariable {
     static int num1=233;
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-    //     double ft=1.33111111111111111111111;
+         double ft=1.33111111111111111111111;
     //     System.out.println(ft);
     //     float ft1=3.5300000000020f;
     //     System.out.println(ft1);
@@ -69,3 +69,4 @@ public class DataTypeandVariable {
     // static int num=233;
     
 }
+
